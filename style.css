@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+}
+  
+td {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid black;
+    font-size: 2em;
+    cursor: pointer;
+}
+  
+td:hover {
+    background-color: #eee;
+}
+  
+.disabled {
+    cursor: default;
+    background-color: #ccc;
+}
