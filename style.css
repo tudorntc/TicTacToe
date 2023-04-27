@@ -20,3 +20,8 @@ td:hover {
     cursor: default;
     background-color: #ccc;
 }
+
+body{
+    margin-left: 675px;
+    margin-top: 300px;
+}
